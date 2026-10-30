@@ -307,10 +307,7 @@ Cloud Data Engineer Trainee | B.Tech Computer Science Engineering
 
 **Reference ID:** HCLTFP2261308
 
-- GitHub: [Add Your GitHub Profile]
-- LinkedIn: [Add Your LinkedIn Profile]
 
----
 
 <p align="center">
   <b>Learning Cloud | Building Infrastructure | Deploying Solutions ☁️</b>
